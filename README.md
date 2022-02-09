@@ -2,6 +2,6 @@
 
 <div align="center">
   <a href="https://github.com/LucasRobert123">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasRobert123&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&title_color='#ffffff'"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasRobert123&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&title_color='#f00'"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasRobert123&layout=compact&langs_count=7&theme=dracula"/>
 </div>
