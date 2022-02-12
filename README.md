@@ -1,4 +1,4 @@
-## Ola! Eu sou Lucas Robert
+## Ola! Eu sou Lucas Robert atualmente tenho estudado o ecossistema React, tanto React JS, quanto React Native junto ao typescript
 
 <div align="center">
   <a href="https://github.com/LucasRobert123">
